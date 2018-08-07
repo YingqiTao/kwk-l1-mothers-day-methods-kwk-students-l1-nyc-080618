@@ -3,6 +3,6 @@ def mothers_day(name = "Mom")
   print "Happy Mother's Day, #{name}!"
 end
 
-mothers_day("Tracy")
+mothers_day(name = "Tracy")
 mothers_day()
 
